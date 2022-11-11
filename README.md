@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eugeny</h1>
 <h3 align="center">A Fullstack developer from Russia</h3>
 <img align="center" src="peppo-dance.gif" height="130" width="140"/>
-- 🌱 I’m currently learning **Express, React, Node JS, HTML,CSS**
+- 🌱 My stack is **Express, React, Node JS, HTML,CSS, Sequelize**
 
 - 📫 How to reach me **johnkhv69@gmail.com**
 
